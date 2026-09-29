@@ -1,0 +1,115 @@
+{
+    "version": 1,
+    "templates": [
+        {
+            "id": "example_kpi_dashboard",
+            "name": "Executive Sales & KPI Dashboard",
+            "category": "REPORTS",
+            "templateVersion": 1,
+            "isPremium": false,
+            "downloadUrl": "https://raw.githubusercontent.com/solomadestudios/pdfstudio-templates/main/templates/example_kpi_dashboard.json",
+            "thumbnailUrl": "https://raw.githubusercontent.com/solomadestudios/pdfstudio-templates/main/thumbnails/example_kpi_dashboard.webp",
+            "description": "Executive Sales & KPI Dashboard"
+        },
+        {
+            "id": "example_project_invoice",
+            "name": "Modern Business Project Invoice",
+            "category": "INVOICES",
+            "templateVersion": 1,
+            "isPremium": false,
+            "downloadUrl": "https://raw.githubusercontent.com/solomadestudios/pdfstudio-templates/main/templates/example_project_invoice.json",
+            "thumbnailUrl": "https://raw.githubusercontent.com/solomadestudios/pdfstudio-templates/main/thumbnails/example_project_invoice.webp",
+            "description": "Modern Business Project Invoice"
+        },
+        {
+            "id": "example_financial_report",
+            "name": "Annual Financial & Budget Report",
+            "category": "REPORTS",
+            "templateVersion": 1,
+            "isPremium": false,
+            "downloadUrl": "https://raw.githubusercontent.com/solomadestudios/pdfstudio-templates/main/templates/example_financial_report.json",
+            "thumbnailUrl": "https://raw.githubusercontent.com/solomadestudios/pdfstudio-templates/main/thumbnails/example_financial_report.webp",
+            "description": "Annual Financial & Budget Report"
+        },
+        {
+            "id": "example_modern_resume",
+            "name": "Executive Tech Leadership Resume",
+            "category": "RESUMES",
+            "templateVersion": 1,
+            "isPremium": false,
+            "downloadUrl": "https://raw.githubusercontent.com/solomadestudios/pdfstudio-templates/main/templates/example_modern_resume.json",
+            "thumbnailUrl": "https://raw.githubusercontent.com/solomadestudios/pdfstudio-templates/main/thumbnails/example_modern_resume.webp",
+            "description": "Executive Tech Leadership Resume"
+        },
+        {
+            "id": "example_commercial_distribution_invoice",
+            "name": "Commercial Distribution Invoice (ERPAG Style)",
+            "category": "INVOICES",
+            "templateVersion": 1,
+            "isPremium": false,
+            "downloadUrl": "https://raw.githubusercontent.com/solomadestudios/pdfstudio-templates/main/templates/example_commercial_distribution_invoice.json",
+            "thumbnailUrl": "https://raw.githubusercontent.com/solomadestudios/pdfstudio-templates/main/thumbnails/example_commercial_distribution_invoice.webp",
+            "description": "Commercial Distribution Invoice (ERPAG Style)"
+        },
+        {
+            "id": "example_modern_tech_resume",
+            "name": "Modern Two-Column Tech & IT Resume",
+            "category": "RESUMES",
+            "templateVersion": 1,
+            "isPremium": false,
+            "downloadUrl": "https://raw.githubusercontent.com/solomadestudios/pdfstudio-templates/main/templates/example_modern_tech_resume.json",
+            "thumbnailUrl": "https://raw.githubusercontent.com/solomadestudios/pdfstudio-templates/main/thumbnails/example_modern_tech_resume.webp",
+            "description": "Modern Two-Column Tech & IT Resume"
+        },
+        {
+            "id": "example_creative_theater_resume",
+            "name": "Creative Theater & Arts Resume",
+            "category": "RESUMES",
+            "templateVersion": 1,
+            "isPremium": false,
+            "downloadUrl": "https://raw.githubusercontent.com/solomadestudios/pdfstudio-templates/main/templates/example_creative_theater_resume.json",
+            "thumbnailUrl": "https://raw.githubusercontent.com/solomadestudios/pdfstudio-templates/main/thumbnails/example_creative_theater_resume.webp",
+            "description": "Creative Theater & Arts Resume"
+        },
+        {
+            "id": "example_infographic_sales_resume",
+            "name": "Infographic Sales & Leadership Resume",
+            "category": "RESUMES",
+            "templateVersion": 1,
+            "isPremium": false,
+            "downloadUrl": "https://raw.githubusercontent.com/solomadestudios/pdfstudio-templates/main/templates/example_infographic_sales_resume.json",
+            "thumbnailUrl": "https://raw.githubusercontent.com/solomadestudios/pdfstudio-templates/main/thumbnails/example_infographic_sales_resume.webp",
+            "description": "Infographic Sales & Leadership Resume"
+        },
+        {
+            "id": "example_wedding_invitation",
+            "name": "Luxury Gold Botanical Wedding Invitation",
+            "category": "EVENTS",
+            "templateVersion": 1,
+            "isPremium": false,
+            "downloadUrl": "https://raw.githubusercontent.com/solomadestudios/pdfstudio-templates/main/templates/example_wedding_invitation.json",
+            "thumbnailUrl": "https://raw.githubusercontent.com/solomadestudios/pdfstudio-templates/main/thumbnails/example_wedding_invitation.webp",
+            "description": "Luxury Gold Botanical Wedding Invitation"
+        },
+        {
+            "id": "example_celebration_greeting_card",
+            "name": "Celebration & Birthday Greeting Card",
+            "category": "EVENTS",
+            "templateVersion": 1,
+            "isPremium": false,
+            "downloadUrl": "https://raw.githubusercontent.com/solomadestudios/pdfstudio-templates/main/templates/example_celebration_greeting_card.json",
+            "thumbnailUrl": "https://raw.githubusercontent.com/solomadestudios/pdfstudio-templates/main/thumbnails/example_celebration_greeting_card.webp",
+            "description": "Celebration & Birthday Greeting Card"
+        },
+        {
+            "id": "example_academic_marksheet",
+            "name": "Academic Marksheet & Progress Report",
+            "category": "REPORTS",
+            "templateVersion": 1,
+            "isPremium": false,
+            "downloadUrl": "https://raw.githubusercontent.com/solomadestudios/pdfstudio-templates/main/templates/example_academic_marksheet.json",
+            "thumbnailUrl": "https://raw.githubusercontent.com/solomadestudios/pdfstudio-templates/main/thumbnails/example_academic_marksheet.webp",
+            "description": "Academic Marksheet & Progress Report"
+        }
+    ]
+}
